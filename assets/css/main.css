@@ -4682,3 +4682,8 @@ input, select, textarea {
 		}
 
 	}
+
+	#imagemainpdf {
+		width: 100%;
+		height: 100%;
+	}
